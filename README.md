@@ -1,5 +1,11 @@
 # ALF
 
+# Tema 1
+
+Cerinta
+
+Ecrivez une expression reguliere en JavaScript pour valider une date en format ISO en incluant le fuseau horraire
+
 # Tema 2
 
 Cerinta
