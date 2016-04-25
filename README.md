@@ -54,4 +54,10 @@ Se introduce continutul fisierului "TD3.txt" in inputul numit "Write your PEG.js
 Se introduce in inputul numit "Test the generated parser with some input" marcat cu cifra "2" stringul pe care dorim sa-l validam (exemple incluse mai sus)
 In sectiunea "Output" va fi afisata parsarea instructiunilor iar fiecare instructiune if va fi afisata sub forma de array
 
+# Tema 4
+
+Cerinta
+
+Concevez un langage de programmation a l'aide de ANTLR. Le langage doit comprendre au moins deux types d'instruction: initialisation des varibles et le traitement de conditions logiques. Le type de langage est a votre choix.
+
 
