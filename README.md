@@ -60,4 +60,9 @@ Cerinta
 
 Concevez un langage de programmation a l'aide de ANTLR. Le langage doit comprendre au moins deux types d'instruction: initialisation des varibles et le traitement de conditions logiques. Le type de langage est a votre choix.
 
+# Tema 5 
+
+Cerinta
+
+Concevez une machine de Turing pour faire des calculs elementaires en binnaire (addition, substraction, multiplication, division, puisssance 2). Vous pouvez outiliser le site de Khan Academy ou Morphett ou votre propre implementation.
 
